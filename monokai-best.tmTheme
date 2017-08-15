@@ -371,6 +371,17 @@
         <string>#ffff63</string>
       </dict>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>Php, Object accessor</string>
+      <key>scope</key>
+      <string>punctuation.accessor.php</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FF005E</string>
+      </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347E</string>
