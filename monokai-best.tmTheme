@@ -194,6 +194,17 @@
     </dict>
     <dict>
       <key>name</key>
+      <string>Chained function</string>
+      <key>scope</key>
+      <string>meta.function-call.method.php</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#41FFFF</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
       <string>Function argument</string>
       <key>scope</key>
       <string>variable.parameter</string>
