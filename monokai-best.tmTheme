@@ -393,6 +393,15 @@
         <string>#FF005E</string>
       </dict>
     </dict>
+    <dict>
+      <key>scope</key>
+      <string>variable.language.php</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#fd971f</string>
+      </dict>
+    </dict>
   </array>
   <key>uuid</key>
   <string>D8D5E82E-3D5B-46B5-B38E-8C841C21347E</string>
